@@ -1,0 +1,11 @@
+streamlit
+openai
+supabase
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+python-dotenv
+tqdm
+termcolor
+pydantic
